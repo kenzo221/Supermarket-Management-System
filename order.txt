@@ -1,0 +1,2 @@
+asds,Fish,Non-Fragile,32,4
+asds,Glass,Fragile,42,2
