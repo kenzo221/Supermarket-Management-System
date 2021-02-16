@@ -1,4 +1,4 @@
-# SupermarketOrdering
+# Supermarket Management System
 
 A simple Supermarket ordering system created with Java where users can perform functions as follow:
 
